@@ -1,0 +1,28 @@
+name: glimy
+favicon: null
+layout_spectrum: 0.5137351495213807
+typography_spectrum: 0.9300284185446799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.637368084397167
+  lightness: 0.7437161093112081
+  saturation: 0.9946295032277703
+  rhythmicContrast: 0.1719893030822277
+purpose: []
